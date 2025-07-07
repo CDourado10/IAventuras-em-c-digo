@@ -1,0 +1,22 @@
+# requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic[email]
+redis
+celery
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+joblib
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pytest
+pytest-asyncio
+requests
